@@ -1,0 +1,15 @@
+C:\Users\onurp\Desktop\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\bin\Debug\GorselProgrammingProject.exe.config
+C:\Users\onurp\Desktop\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\bin\Debug\GorselProgrammingProject.exe
+C:\Users\onurp\Desktop\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\bin\Debug\GorselProgrammingProject.pdb
+C:\Users\onurp\Desktop\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\GorselProgrammingProject.csproj.AssemblyReference.cache
+C:\Users\onurp\Desktop\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\GorselProgrammingProject.Properties.Resources.resources
+C:\Users\onurp\Desktop\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\GorselProgrammingProject.csproj.GenerateResource.cache
+C:\Users\onurp\Desktop\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\GorselProgrammingProject.csproj.CoreCompileInputs.cache
+C:\Users\onurp\Desktop\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\GorselProgrammingProject.exe
+C:\Users\onurp\Desktop\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\GorselProgrammingProject.pdb
+C:\Users\onurp\Desktop\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\GorselProgrammingProject.Anasayfa.resources
+C:\Users\onurp\Desktop\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\GorselProgrammingProject.Menu.resources
+C:\Users\onurp\Desktop\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\GorselProgrammingProject.ParaCekme.resources
+C:\Users\onurp\Desktop\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\GorselProgrammingProject.Kayit.resources
+C:\Users\onurp\Desktop\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\GorselProgrammingProject.Giris.resources
+C:\Users\onurp\Desktop\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\GorselProgrammingProject.ParaYatirma.resources

@@ -1,0 +1,41 @@
+C:\Users\onurp\Desktop\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\bin\Debug\GorselProgrammingProject.exe.config
+C:\Users\onurp\Desktop\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\bin\Debug\GorselProgrammingProject.exe
+C:\Users\onurp\Desktop\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\bin\Debug\GorselProgrammingProject.pdb
+C:\Users\onurp\Desktop\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\GorselProgrammingProject.Anasayfa.resources
+C:\Users\onurp\Desktop\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\GorselProgrammingProject.Kayit.resources
+C:\Users\onurp\Desktop\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\GorselProgrammingProject.Giris.resources
+C:\Users\onurp\Desktop\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\GorselProgrammingProject.Menu.resources
+C:\Users\onurp\Desktop\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\GorselProgrammingProject.ParaCekme.resources
+C:\Users\onurp\Desktop\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\GorselProgrammingProject.ParaYatirma.resources
+C:\Users\onurp\Desktop\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\GorselProgrammingProject.Properties.Resources.resources
+C:\Users\onurp\Desktop\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\VisualProgrammingProject.csproj.GenerateResource.cache
+C:\Users\onurp\Desktop\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\VisualProgrammingProject.csproj.CoreCompileInputs.cache
+C:\Users\onurp\Desktop\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\GorselProgrammingProject.exe
+C:\Users\onurp\Desktop\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\GorselProgrammingProject.pdb
+C:\Users\onurp\Desktop\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\VisualProgrammingProject.csproj.AssemblyReference.cache
+C:\Users\onurp\Desktop\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\GorselProgrammingProject.Havale.resources
+C:\Users\onurp\Desktop\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\GorselProgrammingProject.BilgiGuncelleme.resources
+C:\Users\onurp\Desktop\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\GorselProgrammingProject.Yonetici.resources
+C:\Users\onurp\Desktop\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\GorselProgrammingProject.FaturaOdeme.resources
+C:\Users\onurp\Desktop\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\GorselProgrammingProject.Hakkinda.resources
+C:\Users\onurp\Desktop\Masaüstü\Bölüm\2.Sınıf\2.Dönem\Görsel Programlama\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\bin\Debug\GorselProgrammingProject.exe.config
+C:\Users\onurp\Desktop\Masaüstü\Bölüm\2.Sınıf\2.Dönem\Görsel Programlama\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\bin\Debug\GorselProgrammingProject.exe
+C:\Users\onurp\Desktop\Masaüstü\Bölüm\2.Sınıf\2.Dönem\Görsel Programlama\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\bin\Debug\GorselProgrammingProject.pdb
+C:\Users\onurp\Desktop\Masaüstü\Bölüm\2.Sınıf\2.Dönem\Görsel Programlama\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\VisualProgrammingProject.csproj.AssemblyReference.cache
+C:\Users\onurp\Desktop\Masaüstü\Bölüm\2.Sınıf\2.Dönem\Görsel Programlama\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\VisualProgrammingProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\onurp\Desktop\Masaüstü\Bölüm\2.Sınıf\2.Dönem\Görsel Programlama\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\GorselProgrammingProject.Anasayfa.resources
+C:\Users\onurp\Desktop\Masaüstü\Bölüm\2.Sınıf\2.Dönem\Görsel Programlama\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\GorselProgrammingProject.BilgiGuncelleme.resources
+C:\Users\onurp\Desktop\Masaüstü\Bölüm\2.Sınıf\2.Dönem\Görsel Programlama\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\GorselProgrammingProject.FaturaOdeme.resources
+C:\Users\onurp\Desktop\Masaüstü\Bölüm\2.Sınıf\2.Dönem\Görsel Programlama\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\GorselProgrammingProject.Hakkinda.resources
+C:\Users\onurp\Desktop\Masaüstü\Bölüm\2.Sınıf\2.Dönem\Görsel Programlama\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\GorselProgrammingProject.Havale.resources
+C:\Users\onurp\Desktop\Masaüstü\Bölüm\2.Sınıf\2.Dönem\Görsel Programlama\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\GorselProgrammingProject.Kayit.resources
+C:\Users\onurp\Desktop\Masaüstü\Bölüm\2.Sınıf\2.Dönem\Görsel Programlama\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\GorselProgrammingProject.Giris.resources
+C:\Users\onurp\Desktop\Masaüstü\Bölüm\2.Sınıf\2.Dönem\Görsel Programlama\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\GorselProgrammingProject.Menu.resources
+C:\Users\onurp\Desktop\Masaüstü\Bölüm\2.Sınıf\2.Dönem\Görsel Programlama\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\GorselProgrammingProject.ParaCekme.resources
+C:\Users\onurp\Desktop\Masaüstü\Bölüm\2.Sınıf\2.Dönem\Görsel Programlama\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\GorselProgrammingProject.ParaYatirma.resources
+C:\Users\onurp\Desktop\Masaüstü\Bölüm\2.Sınıf\2.Dönem\Görsel Programlama\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\GorselProgrammingProject.Properties.Resources.resources
+C:\Users\onurp\Desktop\Masaüstü\Bölüm\2.Sınıf\2.Dönem\Görsel Programlama\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\GorselProgrammingProject.Yonetici.resources
+C:\Users\onurp\Desktop\Masaüstü\Bölüm\2.Sınıf\2.Dönem\Görsel Programlama\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\VisualProgrammingProject.csproj.GenerateResource.cache
+C:\Users\onurp\Desktop\Masaüstü\Bölüm\2.Sınıf\2.Dönem\Görsel Programlama\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\VisualProgrammingProject.csproj.CoreCompileInputs.cache
+C:\Users\onurp\Desktop\Masaüstü\Bölüm\2.Sınıf\2.Dönem\Görsel Programlama\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\GorselProgrammingProject.exe
+C:\Users\onurp\Desktop\Masaüstü\Bölüm\2.Sınıf\2.Dönem\Görsel Programlama\Görsel Programlama Proje\GorselProgrammingProject\GorselProgrammingProject\obj\Debug\GorselProgrammingProject.pdb
